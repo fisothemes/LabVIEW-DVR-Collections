@@ -23,5 +23,6 @@
 	</Item>
 	<Item Name="Utils" Type="Folder">
 		<Item Name="Array to Set.vim" Type="VI" URL="../VIs/Public/Utils/Array to Set.vim"/>
+		<Item Name="Set to Array.vim" Type="VI" URL="../VIs/Public/Utils/Set to Array.vim"/>
 	</Item>
 </Library>
