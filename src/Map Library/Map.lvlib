@@ -27,4 +27,5 @@
 		<Item Name="Set.vim" Type="VI" URL="../VIs/Public/Set.vim"/>
 		<Item Name="Update.vim" Type="VI" URL="../VIs/Public/Update.vim"/>
 	</Item>
+	<Item Name="Array to Map.vim" Type="VI" URL="../VIs/Public/Utils/Array to Map.vim"/>
 </Library>
