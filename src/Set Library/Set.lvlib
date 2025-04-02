@@ -12,6 +12,11 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Utils" Type="Folder">
+			<Item Name="Array to Set.vim" Type="VI" URL="../VIs/Public/Utils/Array to Set.vim"/>
+			<Item Name="Create Empty Set.vim" Type="VI" URL="../VIs/Public/Utils/Create Empty Set.vim"/>
+			<Item Name="Set to Array.vim" Type="VI" URL="../VIs/Public/Utils/Set to Array.vim"/>
+		</Item>
 		<Item Name="Add.vim" Type="VI" URL="../VIs/Public/Add.vim"/>
 		<Item Name="Clear.vim" Type="VI" URL="../VIs/Public/Clear.vim"/>
 		<Item Name="Contains.vim" Type="VI" URL="../VIs/Public/Contains.vim"/>
@@ -20,9 +25,5 @@
 		<Item Name="Remove.vim" Type="VI" URL="../VIs/Public/Remove.vim"/>
 		<Item Name="Retrieve All.vim" Type="VI" URL="../VIs/Public/Retrieve All.vim"/>
 		<Item Name="Set.vim" Type="VI" URL="../VIs/Public/Set.vim"/>
-	</Item>
-	<Item Name="Utils" Type="Folder">
-		<Item Name="Array to Set.vim" Type="VI" URL="../VIs/Public/Utils/Array to Set.vim"/>
-		<Item Name="Set to Array.vim" Type="VI" URL="../VIs/Public/Utils/Set to Array.vim"/>
 	</Item>
 </Library>
