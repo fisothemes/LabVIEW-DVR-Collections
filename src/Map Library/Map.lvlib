@@ -12,7 +12,9 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Utils" Type="Folder"/>
+		<Item Name="Utils" Type="Folder">
+			<Item Name="Create Empty Map.vim" Type="VI" URL="../VIs/Public/Utils/Create Empty Map.vim"/>
+		</Item>
 		<Item Name="Add or Update.vim" Type="VI" URL="../VIs/Public/Add or Update.vim"/>
 		<Item Name="Add.vim" Type="VI" URL="../VIs/Public/Add.vim"/>
 		<Item Name="Clear.vim" Type="VI" URL="../VIs/Public/Clear.vim"/>
