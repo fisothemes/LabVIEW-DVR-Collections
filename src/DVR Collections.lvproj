@@ -24,6 +24,7 @@
 		<Item Name="Collections.lvlib" Type="Library" URL="../Collections Library/Collections.lvlib"/>
 		<Item Name="Map.lvlib" Type="Library" URL="../Map Library/Map.lvlib"/>
 		<Item Name="Null.lvclass" Type="LVClass" URL="../Null Class/Null.lvclass"/>
+		<Item Name="Priority Queue.lvlib" Type="Library" URL="../Priority Queue Library/Priority Queue.lvlib"/>
 		<Item Name="Set.lvlib" Type="Library" URL="../Set Library/Set.lvlib"/>
 		<Item Name="Variant Attributes.lvlib" Type="Library" URL="../Variant Attribute Library/Variant Attributes.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
