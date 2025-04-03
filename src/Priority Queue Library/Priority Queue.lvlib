@@ -9,5 +9,7 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Public" Type="Folder"/>
+	<Item Name="Public" Type="Folder">
+		<Item Name="Obtain Queue.vim" Type="VI" URL="../Public/Obtain Queue.vim"/>
+	</Item>
 </Library>
