@@ -14,5 +14,6 @@
 	<Item Name="Public" Type="Folder">
 		<Item Name="Enqueue Element.vim" Type="VI" URL="../Public/Enqueue Element.vim"/>
 		<Item Name="Obtain Queue.vim" Type="VI" URL="../Public/Obtain Queue.vim"/>
+		<Item Name="Preview Queue Element.vim" Type="VI" URL="../Public/Preview Queue Element.vim"/>
 	</Item>
 </Library>
