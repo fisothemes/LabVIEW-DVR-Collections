@@ -10,9 +10,11 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Get Semaphore.vim" Type="VI" URL="../Private/Get Semaphore.vim"/>
+		<Item Name="Name Queue Status Elements.vim" Type="VI" URL="../Private/Name Queue Status Elements.vim"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Enqueue Element.vim" Type="VI" URL="../Public/Enqueue Element.vim"/>
+		<Item Name="Get Queue Status.vim" Type="VI" URL="../Public/Get Queue Status.vim"/>
 		<Item Name="Obtain Queue.vim" Type="VI" URL="../Public/Obtain Queue.vim"/>
 		<Item Name="Preview Queue Element.vim" Type="VI" URL="../Public/Preview Queue Element.vim"/>
 	</Item>
