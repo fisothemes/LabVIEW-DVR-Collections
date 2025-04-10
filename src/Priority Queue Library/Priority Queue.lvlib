@@ -13,6 +13,9 @@
 		<Item Name="Name Queue Status Elements.vim" Type="VI" URL="../Private/Name Queue Status Elements.vim"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
+		<Item Name="Utils" Type="Folder">
+			<Item Name="Get Queue Element Type.vim" Type="VI" URL="../Public/Utils/Get Queue Element Type.vim"/>
+		</Item>
 		<Item Name="Enqueue Element.vim" Type="VI" URL="../Public/Enqueue Element.vim"/>
 		<Item Name="Get Queue Status.vim" Type="VI" URL="../Public/Get Queue Status.vim"/>
 		<Item Name="Lossy Enqueue Element.vim" Type="VI" URL="../Public/Lossy Enqueue Element.vim"/>
