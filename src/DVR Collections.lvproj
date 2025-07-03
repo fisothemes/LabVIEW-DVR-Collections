@@ -28,6 +28,7 @@
 		<Item Name="Null.lvclass" Type="LVClass" URL="../Null Class/Null.lvclass"/>
 		<Item Name="Priority Queue.lvlib" Type="Library" URL="../Priority Queue Library/Priority Queue.lvlib"/>
 		<Item Name="Set.lvlib" Type="Library" URL="../Set Library/Set.lvlib"/>
+		<Item Name="Sync Token.lvlib" Type="Library" URL="../Sync Token Library/Sync Token.lvlib"/>
 		<Item Name="Variant Attributes.lvlib" Type="Library" URL="../Variant Attribute Library/Variant Attributes.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
