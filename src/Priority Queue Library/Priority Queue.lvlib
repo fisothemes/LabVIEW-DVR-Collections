@@ -45,6 +45,7 @@
 		<Item Name="Dequeue Element.vim" Type="VI" URL="../Public/Dequeue Element.vim"/>
 		<Item Name="Enqueue Element At Opposite End.vim" Type="VI" URL="../Public/Enqueue Element At Opposite End.vim"/>
 		<Item Name="Enqueue Element.vim" Type="VI" URL="../Public/Enqueue Element.vim"/>
+		<Item Name="Flush Queue.vim" Type="VI" URL="../Public/Flush Queue.vim"/>
 		<Item Name="Get Queue Status.vim" Type="VI" URL="../Public/Get Queue Status.vim"/>
 		<Item Name="Lossy Enqueue Element.vim" Type="VI" URL="../Public/Lossy Enqueue Element.vim"/>
 		<Item Name="Obtain Queue.vim" Type="VI" URL="../Public/Obtain Queue.vim"/>
