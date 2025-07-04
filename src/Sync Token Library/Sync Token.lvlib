@@ -18,7 +18,7 @@ Always ensure the token is eventually set. If a token is created and &lt;b&gt;Wa
 			<Item Name="Sync Token Refnum.ctl" Type="VI" URL="../Controls/Public/Sync Token Refnum.ctl"/>
 		</Item>
 		<Item Name="Generate Token.vi" Type="VI" URL="../VIs/Public/Generate Token.vi"/>
-		<Item Name="Set Token.vi" Type="VI" URL="../VIs/Public/Set Token.vi"/>
+		<Item Name="Set Token.vim" Type="VI" URL="../VIs/Public/Set Token.vim"/>
 		<Item Name="Wait on Token.vi" Type="VI" URL="../VIs/Public/Wait on Token.vi"/>
 	</Item>
 </Library>
