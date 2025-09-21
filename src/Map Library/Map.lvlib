@@ -13,6 +13,7 @@
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Utils" Type="Folder">
+			<Item Name="Array to Map.vim" Type="VI" URL="../VIs/Public/Utils/Array to Map.vim"/>
 			<Item Name="Create Empty Map.vim" Type="VI" URL="../VIs/Public/Utils/Create Empty Map.vim"/>
 			<Item Name="Map to Array.vim" Type="VI" URL="../VIs/Public/Utils/Map to Array.vim"/>
 		</Item>
@@ -27,5 +28,4 @@
 		<Item Name="Set.vim" Type="VI" URL="../VIs/Public/Set.vim"/>
 		<Item Name="Update.vim" Type="VI" URL="../VIs/Public/Update.vim"/>
 	</Item>
-	<Item Name="Array to Map.vim" Type="VI" URL="../VIs/Public/Utils/Array to Map.vim"/>
 </Library>
