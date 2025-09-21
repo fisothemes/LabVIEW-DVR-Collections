@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-05-31 22:36:15" Modified_Date="2025-09-21 11:01:07" Creator="Goodwill" Comments="" ID="8fd9a93f4b765e7383d7c2f5d4e5ab81">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-05-31 22:36:15" Modified_Date="2025-09-21 11:10:32" Creator="Goodwill" Comments="" ID="d4264c6f0f1bb971ad8da92751f41ce8">
   <Library_General_Settings>
     <Package_File_Name>FisoThemes_lib_DVR_Collections</Package_File_Name>
-    <Library_Version>1.1.0.2</Library_Version>
+    <Library_Version>1.1.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
